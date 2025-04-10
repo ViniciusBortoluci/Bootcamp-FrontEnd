@@ -9,5 +9,5 @@ Nesse projeto, entendi melhor como  fazer alguns posicionamentos, como manipular
 
 ## Tecnologias usadas
 
-HTML -  para estruturação 
-CSS -  para a estilização.
+- HTML -  para estruturação <br>
+- CSS -  para a estilização.
